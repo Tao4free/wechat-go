@@ -1,4 +1,6 @@
-module github.com/songtianyi/wechat-go
+module github.com/Tao4free/wechat-go
+
+go 1.15
 
 require (
 	github.com/PuerkitoBio/goquery v1.4.1 // indirect
@@ -9,6 +11,7 @@ require (
 	github.com/mdp/qrterminal v0.0.0-20180608133721-ba5dc6cf021f
 	github.com/songtianyi/laosj v0.0.0-20180909071508-760f7844583a
 	github.com/songtianyi/rrframework v0.0.0-20180901111106-4caefe307b3f
+	github.com/songtianyi/wechat-go v0.0.0-20200512054207-97a6c69151a2
 	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1 // indirect
 	golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba // indirect
 	gopkg.in/VividCortex/ewma.v1 v1.1.1 // indirect

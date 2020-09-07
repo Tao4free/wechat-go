@@ -27,7 +27,7 @@ package switcher
 
 import (
 	"github.com/songtianyi/rrframework/logs"
-	"github.com/songtianyi/wechat-go/wxweb"
+	"github.com/tao4free/wechat-go/wxweb"
 	"strings"
 )
 

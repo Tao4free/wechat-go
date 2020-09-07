@@ -14,6 +14,8 @@ github.com/songtianyi/laosj v0.0.0-20180909071508-760f7844583a h1:Ygx3xixXEfFb6K
 github.com/songtianyi/laosj v0.0.0-20180909071508-760f7844583a/go.mod h1:GiH5oIzVjiuDN/QL2F02qKQ/d8kw/JnNADI9iAYUaYA=
 github.com/songtianyi/rrframework v0.0.0-20180901111106-4caefe307b3f h1:o3QHyJEW1U+8oyEZeaXFcYqdhhiZjrs25/8AZmsWjiU=
 github.com/songtianyi/rrframework v0.0.0-20180901111106-4caefe307b3f/go.mod h1:sZ22OEtg0BDCjTLgLamTtAb0aZ5WnlCAhQm71k9HAXA=
+github.com/songtianyi/wechat-go v0.0.0-20200512054207-97a6c69151a2 h1:vnoj8oO67Qrdf1JzsS3DhpV395XqOErz2n23fzFwA4s=
+github.com/songtianyi/wechat-go v0.0.0-20200512054207-97a6c69151a2/go.mod h1:3UNfhIVStfoT3nDP7vS/+H1/Hqs+QEvKbby9cK3kaiQ=
 golang.org/x/net v0.0.0-20180218175443-cbe0f9307d01/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1 h1:Y/KGZSOdz/2r0WJ9Mkmz6NJBusp0kiNx1Cn82lzJQ6w=
 golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
