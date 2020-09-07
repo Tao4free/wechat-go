@@ -28,7 +28,7 @@ package gifer
 import (
 	"github.com/songtianyi/laosj/spider"
 	"github.com/songtianyi/rrframework/logs"
-	"github.com/tao4free/wechat-go/wxweb"
+	"github.com/Tao4free/wechat-go/wxweb"
 	"io/ioutil"
 	"math/rand"
 	"net/http"

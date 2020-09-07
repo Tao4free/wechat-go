@@ -27,7 +27,7 @@ package forwarder // 以插件名命令包名
 
 import (
 	"github.com/songtianyi/rrframework/logs" // 导入日志包
-	"github.com/tao4free/wechat-go/wxweb"  // 导入协议包
+	"github.com/Tao4free/wechat-go/wxweb"  // 导入协议包
 )
 
 var (
